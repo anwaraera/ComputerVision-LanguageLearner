@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@azure/cognitiveservices-translatortext": "^1.0.1",
+    "@azure/ms-rest-azure-js": "^2.1.0"
+  }
+}
