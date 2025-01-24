@@ -7,9 +7,9 @@
 - Techonologies Used:
   - Coco-SSD: pre-trained model for object detection
   - Microsoft Azure Text Translator: API to send detected labels and get a translation
-  - Node.js: Allows for communication to external API calls
+  - NodeJS: Allows for communication to external API calls
 
 ### Instructions to Run Project:
-- Install node.js to get npm
+- Install nodeJS to get npm
 - Ppen powershell window in folder and run "npm install" command to get the node_modules folder to access the api
 - Run command "py -m http.server" to start server and run application
