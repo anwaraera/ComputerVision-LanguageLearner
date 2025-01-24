@@ -1,7 +1,5 @@
 /*  CV FINAL - Team 10
       Anwara Era
-      Meghana Reddy
-      Vardhana Seetala
 */
 // Set reference to key elments
 const video = document.getElementById('webcam');                     // video element, renders the video stream of webcam
