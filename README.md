@@ -1,5 +1,5 @@
 # Computer Vision Final Project
-## Language Learner Using Object Detection
+## Language Learner Using Object Detection (Independent Project)
 - Web application that allows users to learn languages through object detection by:
   - Allowing users to choose two languages from two lists
   - Detecting objects real-time in a live webcam
